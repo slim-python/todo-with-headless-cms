@@ -1,3 +1,3 @@
-[submodule "path_to_submodule"] 
+[submodule "my-project"] 
   path = my-project 
-  url = https://github.com/slim-python/todo-with-headless-cms/
+  url = git://https://github.com/slim-python/todo-with-headless-cms/
